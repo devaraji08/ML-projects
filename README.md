@@ -1,8 +1,8 @@
-🧠 ML Projects
+#🧠 ML Projects
 Welcome to the ML Projects repository!
 This repository contains a collection of machine learning projects I've worked on, demonstrating various techniques and real-world applications.
 
-📁 Projects Included
+#📁 Projects Included
 🔹 Project 3
 Credit Card Fraud Detection
 
